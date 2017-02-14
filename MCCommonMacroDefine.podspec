@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MCCommonMacroDefine'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of MCCommonMacroDefine.'
+  s.version          = '0.0.1'
+  s.summary          = 'MCCommonMacroDefine defines some macro'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/macong0420/MCCommonMacroDefine'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'macong0420' => 'macongcong@zongheng.com' }
+  s.author           = { 'macong0420' => 'macongcong0420@126.com' }
   s.source           = { :git => 'https://github.com/macong0420/MCCommonMacroDefine.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
