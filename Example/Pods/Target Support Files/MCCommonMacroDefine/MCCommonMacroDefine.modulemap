@@ -1,0 +1,6 @@
+framework module MCCommonMacroDefine {
+  umbrella header "MCCommonMacroDefine-umbrella.h"
+
+  export *
+  module * { export * }
+}
