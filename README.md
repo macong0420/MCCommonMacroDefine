@@ -5,11 +5,19 @@
      
      2.使用的时候只需要导入MCCommonMacroDefine.h 头文件就可以使用.
      
+     
+     
 # 使用用例
+
+
 
     1.根据16进制设置颜色 btn.backgroundColor = [UIColor colorWithHexadecimalString:@"00bf99" alpha:1.0];
     
+    
+    
     2.尺寸 MCScreenWidth(屏幕宽度) MCScreenHeight(屏幕高度) CURRENT_SYS_VERSION(当前版本号)
+    
+    
     
     
 # pod  MCCommonMacroDefine
