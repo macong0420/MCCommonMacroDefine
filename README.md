@@ -2,11 +2,15 @@
   定义了常用的宏,比如屏幕宽高,颜色设置等
 # pod  MCCommonMacroDefine
    
+   
     target 'YourApp' do
+    
     
     pod 'MCCommonMacroDefine', '~> 1.0.1’
     
+    
     end
+
 
 
 ## 联系我
