@@ -3,12 +3,12 @@
 # pod  MCCommonMacroDefine
    
 
-<p></p>
+<p> </p>
 <pre><code>target 'YourApp' do
 <pre><code>pod 'MCCommonMacroDefine', '~> 1.0.1’
 <pre><code> end
 </code></pre>
-
+</code></pre>
 
 ## 联系我
 
