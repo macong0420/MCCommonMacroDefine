@@ -15,6 +15,9 @@
 #import "NSDate+Common.h"
 #import "MCExtensionLabel.h"
 
+#define MCColor(colorName,alphaValue)  [UIColor colorWithHexadecimalString:colorName alpha:alphaValue]
+
+#define MCFont(fontSize)  [UIFont systemFontOfSize:fontSize]
 
 @interface MCCommonMacroDefine : NSObject
 
