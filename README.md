@@ -4,11 +4,11 @@
    
 
 <p> </p>
-<pre><code>target 'YourApp' do
-<pre><code>pod 'MCCommonMacroDefine', '~> 1.0.1’
-<pre><code> end
-</code></pre>
-</code></pre>
+<pre>target 'YourApp' do
+<pre>pod 'MCCommonMacroDefine', '~> 1.0.1’
+<pre> end
+</pre>
+</pre>
 
 ## 联系我
 
