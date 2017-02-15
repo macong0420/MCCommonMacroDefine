@@ -1,10 +1,14 @@
 # MCCommonMacroDefine
   定义了常用的宏,比如屏幕宽高,颜色设置等
 # pod  MCCommonMacroDefine
- target 'YourApp' do
-  pod 'MCCommonMacroDefine', '~> 1.0.1’
+   target 'YourApp' do \n
+    pod 'MCCommonMacroDefine', '~> 1.0.1’ \n
 end
 
+## 联系我
+
+ qq: 271269841
+ 
 # MCCommonMacroDefine
 
 [![CI Status](http://img.shields.io/travis/macong0420/MCCommonMacroDefine.svg?style=flat)](https://travis-ci.org/macong0420/MCCommonMacroDefine)
@@ -29,7 +33,7 @@ pod "MCCommonMacroDefine"
 
 ## Author
 
-macong0420, macongcong@zongheng.com
+macong0420, macongcong0420@126.com
 
 ## License
 
