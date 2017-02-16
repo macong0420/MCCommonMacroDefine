@@ -26,7 +26,7 @@
     target 'YourApp' do
     
     
-    pod 'MCCommonMacroDefine', '~> 1.0.1’
+    pod 'MCCommonMacroDefine', '~> 1.1.1’
     
     
     end
