@@ -14,6 +14,7 @@
 #import "UIColor+Common.h"
 #import "NSDate+Common.h"
 #import "MCExtensionLabel.h"
+#import "UIButton+MCBackgroundColor.h"
 
 #define MCColor(colorName,alphaValue)  [UIColor colorWithHexadecimalString:colorName alpha:alphaValue]
 
