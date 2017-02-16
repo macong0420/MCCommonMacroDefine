@@ -1,3 +1,42 @@
+# MCCommonMacroDefine 
+
+     1.定义了常用的宏,比如屏幕宽高,颜色设置等
+     
+     
+     2.使用的时候只需要导入MCCommonMacroDefine.h 头文件就可以使用.
+     
+     
+     
+# 使用用例
+
+
+
+    1.根据16进制设置颜色 btn.backgroundColor = [UIColor colorWithHexadecimalString:@"00bf99" alpha:1.0];
+    
+    
+    
+    2.尺寸 MCScreenWidth(屏幕宽度) MCScreenHeight(屏幕高度) CURRENT_SYS_VERSION(当前版本号)
+    
+    
+    
+    
+# pod  MCCommonMacroDefine
+   
+   
+    target 'YourApp' do
+    
+    
+    pod 'MCCommonMacroDefine', '~> 1.1.1’
+    
+    
+    end
+
+
+
+## 联系我
+
+ qq: 271269841
+ 
 # MCCommonMacroDefine
 
 [![CI Status](http://img.shields.io/travis/macong0420/MCCommonMacroDefine.svg?style=flat)](https://travis-ci.org/macong0420/MCCommonMacroDefine)
@@ -22,7 +61,7 @@ pod "MCCommonMacroDefine"
 
 ## Author
 
-macong0420, macongcong@zongheng.com
+macong0420, macongcong0420@126.com
 
 ## License
 
